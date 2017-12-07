@@ -1,0 +1,11 @@
+1. Hacer una ppt, que explique como crear una nueva pantalla en IONIC (cuales archivos se van a afectar, en donde se debe crear cada archivo HTML y un diagrama de flujo
+
+2. Sobre el proyecto actual (hecho en clase), agregar un nuevo tab, desde 0. Este se llamara Formularios
+
+3. Crear un proyecto en BLANCO, y hacer: 4 tabs funcionales y con iconos:
+- Tab1: Perfil
+- Tab2: Contactos.
+- Tab3: Info
+- Tab4: Soporte
+Nota: cada tab va a tener contneido referente al titulo, tomando elementos de la pagina( documentacion) de ionic CSS Components
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
